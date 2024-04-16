@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "animate.css": "^4.1.1",
     "next": "14.2.1",
     "react": "^18",
@@ -18,11 +19,23 @@
     "reactjs-flip-card": "^2.0.3"
   },
   "devDependencies": {
+=======
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "14.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+>>>>>>> 609b9eb (Initial commit from Create Next App)
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "postcss": "^8",
+<<<<<<< HEAD
     "tailwindcss": "^3.4.3",
     "typescript": "^5"
+=======
+    "tailwindcss": "^3.4.1"
+>>>>>>> 609b9eb (Initial commit from Create Next App)
   }
 }

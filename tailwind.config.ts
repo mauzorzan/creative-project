@@ -13,6 +13,7 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+<<<<<<< HEAD
       colors: {
         sky: {
           200: '#E0F7FA',
@@ -20,9 +21,14 @@ const config: Config = {
           900: '#01579B',
         }
       }
+=======
+>>>>>>> 609b9eb (Initial commit from Create Next App)
     },
   },
   plugins: [],
 };
+<<<<<<< HEAD
 
+=======
+>>>>>>> 609b9eb (Initial commit from Create Next App)
 export default config;
