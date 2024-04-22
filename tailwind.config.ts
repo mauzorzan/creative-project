@@ -13,6 +13,13 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors: {
+        sky: {
+          200: '#E0F7FA',
+          600: '#4DD0E1',
+          900: '#01579B',
+        }
+      }
 <<<<<<< HEAD
       colors: {
         sky: {
@@ -27,6 +34,7 @@ const config: Config = {
   },
   plugins: [],
 };
+
 <<<<<<< HEAD
 
 =======
